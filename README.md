@@ -2,6 +2,7 @@
 
 Public repository associated with [Unsupervised Natural Language Inference Using PHL Triplet Generation, ACL 2022](https://arxiv.org/abs/2110.08438).
 
+# Abstract
 Transformer-based models have achieved impressive performance on various Natural Language Inference (NLI) benchmarks when trained on respective training datasets.
 However, in certain cases, training samples may not be available or collecting them could be time-consuming and resource-intensive.
 In this work, we address the above challenge and present an explorative study on unsupervised NLI, a paradigm in which no human-annotated training samples are available.
@@ -12,3 +13,19 @@ Furthermore, fine-tuning our model with as little as _~0.1%_ of the training dat
 Supported by this superior performance, we conclude with a recommendation for collecting high-quality task-specific data.
 
 
+
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://github.com/nrjvarshney/unsupervised_NLI/blob/main/Pictures/Teaser4.png"
+  >
+  <figcaption>Figure 1: Illustrating our procedural data generation approach for unsupervised NLI. A sentence is treated as premise, and multiple hypotheses conditioned on each label (Entailment- E, Contradiction- C, and Neutral- N) are generated using a set of sentence transformations. </figcaption>
+</p> 
+
+
+# NLI Data Generation
+
+1. Entailment - 
+2. Contradiction - 
+3. Neutral - 
