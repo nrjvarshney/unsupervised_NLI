@@ -29,3 +29,7 @@ Supported by this superior performance, we conclude with a recommendation for co
 1. **Entailment** - Paraphrasing, Extracting Snippets, Hypernym Substitution, Pronoun Substitution, Counting
 3. **Contradiction** - Contradictory Words, Contradictory Verbs, Subject Object Swap, Negation Introduction, Number Substitution, Irrelevant Hypothesis
 4. **Neutral** - Adding Modifiers, ConceptNet, Same Object but Non-Contradictory Verb, 
+
+
+# Implementation
+- Will soon be added
